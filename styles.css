@@ -1,14 +1,13 @@
-/* Your CSS Code here. */
-.holder{
-	displa:flex;
-	justify-content: center;
-	align-items: center;
-	border:1px solid black;
-	width:100vw;
-	height: 100vh;
+.holder {
+    display: flex; 
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    width: 100vw; /* Full viewport width */
+    height: 100vh; /* Full viewport height */
 }
-.item-1{
-	width:100px;
-	height: 100px;
-	background-color: red;
+
+.item-1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
 }
